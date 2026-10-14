@@ -729,6 +729,7 @@ The service is in charge of running the servers that allow users to communicate.
 - [Threema](https://threema.com/en) - The messenger that puts security and privacy first. Pay once, chat forever. No collection of user data. Open Source client.
 - [Signal](https://signal.org/) - Extreme focus on privacy, combined with all of the features you expect. Strong encryption by design. 100% Open Source.
   - [🤖](#icons) [Molly](https://github.com/mollyim/mollyim-android) - Signal-compatible fork client with some security enhancements.
+- [Dialog](https://dialog.pm/) - End-to-end encrypted messenger that needs no phone number or e-mail (WhatsApp/Signal replacement); chats, groups, voice and video calls on Windows, macOS, Linux, Android and iOS. AGPL-3.0, [open source](https://github.com/DialogPM), self-hostable server.
 
 ### P2P
 No servers involved. Everything goes directly from one peer to the other peer. No point of failure or control. The features are reduced because of the lack of server, messaging can be slower. Best option for critical chats.
